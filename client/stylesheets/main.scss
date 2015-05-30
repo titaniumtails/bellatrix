@@ -1,0 +1,14 @@
+// The Material CSS Overrides
+@import ".meteor/local/build/programs/server/assets/packages/yang2007chun_materialize-scss/bower_components/materialize/sass/materialize.scss";
+
+// THIS IS JUST A TEST
+footer.page-footer {
+  background-color: $secondary-color;
+}
+$primary-color: blue;
+
+nav .brand-logo {
+  color: $primary-color;
+}
+
+

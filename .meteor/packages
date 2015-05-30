@@ -8,5 +8,6 @@ meteor-platform
 autopublish
 insecure
 orionjs:core
-materialize:materialize
 orionjs:materialize
+fourseven:scss
+yang2007chun:materialize-scss
